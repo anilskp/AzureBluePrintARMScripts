@@ -1,0 +1,10 @@
+
+Format 
+
+/subscriptions/<SubscriptionID>/resourceGroups/mykeyvaultdeploymentrg/providers/Microsoft.KeyVault/vaults/<KeyVaultName>
+
+
+Sample
+/subscriptions/6513336d-7a7a-4542-9870-96badcfd3794/resourceGroups/qrazaniltest/providers/Microsoft.KeyVault/vaults/qrazanilkv
+
+
