@@ -1,0 +1,10 @@
+$resourceGroupName = Read-Host -Prompt "Enter the Resource Group name"
+$location = Read-Host -Prompt "Enter the location (i.e. centralus)"
+
+
+Set-AzContext -SubscriptionId "11a0fcee-66ee-4603-b871-79d050820de1"
+
+
+
+
+New-AzResourceGroup -Name $resourceGroupName -Location $location 
