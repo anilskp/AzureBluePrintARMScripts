@@ -16,7 +16,6 @@
     {
       "type": "Microsoft.Resources/resourceGroups",
       "apiVersion": "2018-05-01",
-      "subscriptionId": "[11a0fcee-66ee-4603-b871-79d050820de1]",
       "location": "[parameters('rgLocation')]",
       "name": "[parameters('rgName')]"
     }
